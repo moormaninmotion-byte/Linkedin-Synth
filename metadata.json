@@ -1,0 +1,5 @@
+{
+  "name": "LinkedIn Profile Analyzer",
+  "description": "An application that analyzes a user's pasted LinkedIn profile data using the Gemini API to generate a professional summary of their skills and qualifications.",
+  "requestFramePermissions": []
+}
